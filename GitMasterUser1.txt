@@ -1,2 +1,2 @@
 Implement feature 1 in master branch
-This is version 3
+This is version 3.40
